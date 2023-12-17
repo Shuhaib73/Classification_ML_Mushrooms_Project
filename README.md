@@ -1,4 +1,4 @@
-## **A Mushroom Classification Project**
+##                                                    **A Mushroom Classification Project**
 
 <p align='center'>
   <img src='https://github.com/Shuhaib73/Classification_ML_Mushrooms_Project/blob/main/mus_im.jpg' />
