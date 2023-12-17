@@ -1,5 +1,5 @@
 <p align='center'>
-  **A Mushroom Classification Project**
+  <strong>A Mushroom Classification Project</strong>
 </p>
 
 <p align='center'>
