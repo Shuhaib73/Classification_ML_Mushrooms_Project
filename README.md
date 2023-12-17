@@ -19,11 +19,11 @@
 **Target Variables**
 * **classes : edible = e and poisonous = p**
 ### **Features**
-* **cap-shape**: bell=b, conical=c, convex=x, flat=f, knobbed=k, sunken=s
+``` **cap-shape**: bell=b, conical=c, convex=x, flat=f, knobbed=k, sunken=s```
 
-* **cap-surface**: fibrous=f, grooves=g, scaly=y, smooth=s
+``` **cap-surface**: fibrous=f, grooves=g, scaly=y, smooth=s```
 
-* **cap-color**: brown=n, buff=b, cinnamon=c, gray=g, green=r, pink=p, purple=u, red=e, white=w, yellow=y
+``` **cap-color**: brown=n, buff=b, cinnamon=c, gray=g, green=r, pink=p, purple=u, red=e, white=w, yellow=y```
 
 * **bruises**: bruises=t, no=f
 
