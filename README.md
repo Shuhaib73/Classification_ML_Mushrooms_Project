@@ -43,18 +43,18 @@
 * **habitat**: grasses=g, leaves=l, meadows=m, paths=p, urban=u, waste=w, woods=d
 
 ### Conclusion:
-      The machine learning models assessed on this dataset demonstrated exceptional performance with nearly 100% accuracy, precision, and recall scores.*
-      To determine the most efficient model amonth them, we leveraged the 'time' package and employed the 'time()' function to measure the total time consumed by each algorithm in predicting both training and testing datasets.*
-      Among the various models assessed, the **XGBClassifier** stood out as the most efficient, requering the least amount of time for prediction.*
+      * The machine learning models assessed on this dataset demonstrated exceptional performance with nearly 100% accuracy, precision, and recall scores.*
+      * To determine the most efficient model amonth them, we leveraged the 'time' package and employed the 'time()' function to measure the total time consumed by each algorithm in predicting both training and testing datasets.*
+      * Among the various models assessed, the **XGBClassifier** stood out as the most efficient, requering the least amount of time for prediction.*
 
-**Interpretation:**
+### Interpretation:
 
-* *The precision, recall, and F1-score for both classes (0 and 1) are 100%, which indicates perfect performance on both classes.*
-* *The accuracy Score is 100%, meaning that the model correctly classified all the instances in the dataset.*
+      * The precision, recall, and F1-score for both classes (0 and 1) are 100%, which indicates perfect performance on both classes.
+      * The accuracy Score is 100%, meaning that the model correctly classified all the instances in the dataset.*
 
-**Confusion Matrix:**
+### Confusion Matrix:
 
-* *The Confusion matrix shows the number of True positive (TP), True negative (TN), False positive (FP), and False negative (FN) Predictions.*
-* *For Testing dataset, Confusion matrix showed that there were 845 true positives (Correctly predicted Edible Mushrooms) and 780 True negatives (correctly predicted Poisonous Mushrooms).*
+    * The Confusion matrix shows the number of True positive (TP), True negative (TN), False positive (FP), and False negative (FN) Predictions.*
+    * For Testing dataset, Confusion matrix showed that there were 845 true positives (Correctly predicted Edible Mushrooms) and 780 True negatives (correctly predicted Poisonous Mushrooms).*
 
 
