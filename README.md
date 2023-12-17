@@ -1,5 +1,10 @@
 ## **A Mushroom Classification Project**
 
+<p align='center'>
+  <img src='https://github.com/Shuhaib73/Classification_ML_Mushrooms_Project/blob/main/mus_im.jpg' />
+</p>
+
+
 *Description*
 
 * *Our task resolves around a dataset provided by researchers from the University of California, Irvine.*
