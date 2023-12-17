@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <img src='https://github.com/Shuhaib73/Classification_ML_Mushrooms_Project/blob/main/mus_im.jpg' />
+  <img src='https://github.com/Shuhaib73/Classification_ML_Mushrooms_Project/blob/main/mus_ims.jpg' />
 </p>
 
 
